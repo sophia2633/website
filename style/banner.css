@@ -1,0 +1,34 @@
+h1 {
+	color: darkred;
+}
+
+.banner {
+	background-image: url('../images/banner.jpg');
+	height: 65vh;
+	background-size: cover;
+	background-position: bottom;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.banner h1 {
+	color: ghostwhite;
+	text-shadow: 4px 2px 3px #000000ed;
+}
+.banner h2 {
+	color: ghostwhite;
+	text-shadow: 4px 2px 3px #000000ed;
+}
+
+
+
+
+
+
+
+
+
+
